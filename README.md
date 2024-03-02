@@ -1,0 +1,1 @@
+-This is the task 2 given by Prodigy Info Tech in 1 month intership program to make a To-Do List app .
